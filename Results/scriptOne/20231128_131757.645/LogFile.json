@@ -1,0 +1,47 @@
+{
+	"entries": [
+		{
+				"message": "Running Untitled.script",
+				"identifier": "START",
+				"timestamp": "2023-11-28 13:17:57.653 +0530"
+			},
+		{
+				"handlerName": "on_untitled",
+				"timestamp": "2023-11-28 13:17:57.748 +0530",
+				"scriptName": "Untitled.script",
+				"message": "at (53, 608)",
+				"image": "Contacts",
+				"handlerLine": 1,
+				"identifier": "imagelocation"
+			},
+		{
+				"handlerName": "on_untitled",
+				"timestamp": "2023-11-28 13:17:57.866 +0530",
+				"message": "at (53, 608)",
+				"scriptName": "Untitled.script",
+				"handlerLine": 1,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_untitled",
+				"timestamp": "2023-11-28 13:17:57.885 +0530",
+				"scriptName": "Untitled.script",
+				"message": "Could Not Open Image: History",
+				"image": "History",
+				"handlerLine": 2,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"0.257\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2023-11-28 13:17:57 +0530\", Successes:\"0\", TestCase:\"Untitled.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-11-28 13:17:57.918 +0530"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "File Not Found: imagelocation Error - Could Not Open Image: History -- Execution Time 0:00:00 Untitled.script",
+				"identifier": "FAILURE",
+				"timestamp": "2023-11-28 13:17:58.031 +0530"
+			}
+	],
+	"createdTimestamp": "2023-11-28 13:17:57.657 +0530"
+}

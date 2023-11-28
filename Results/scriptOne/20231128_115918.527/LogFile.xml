@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="Untitled_script" package="DEMO 2.suite" timestamp="2023-11-28 11:59:18.527 +0530"
+ tests="1"  failures="0" errors="0" time="1572.818000">
+  <properties>
+   <property name="RunDate" value="2023-11-28 11:59:18.527 +0530"/>
+   <property name="Status" value="Aborted"/>
+  </properties>
+  <testcase name="Untitled.script" assertions="1" status="error"  time="1572.809">
+    <error type="Exception" message="Unable To Find Image &quot;image0001.png&quot;" />
+  </testcase>
+ </testsuite>
+</testsuites>

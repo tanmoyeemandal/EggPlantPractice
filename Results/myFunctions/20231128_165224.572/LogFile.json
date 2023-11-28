@@ -1,0 +1,20 @@
+{
+	"entries": [
+		{
+				"message": "Running MyFunctions.script",
+				"identifier": "START",
+				"timestamp": "2023-11-28 16:52:24.578 +0530"
+			},
+		{
+				"message": "(Duration:\"0.058\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2023-11-28 16:52:24 +0530\", Successes:\"1\", TestCase:\"MyFunctions.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-11-28 16:52:24.640 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:00 MyFunctions.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2023-11-28 16:52:24.670 +0530"
+			}
+	],
+	"createdTimestamp": "2023-11-28 16:52:24.582 +0530"
+}

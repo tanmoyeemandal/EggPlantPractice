@@ -1,0 +1,5 @@
+﻿To MyFunctions
+	put("Welcome to SenseTalk. Happy scripting!")
+End MyFunctions
+
+

@@ -1,0 +1,30 @@
+{
+	"entries": [
+		{
+				"message": "Running Untitled.script",
+				"identifier": "START",
+				"timestamp": "2023-11-28 12:31:51.003 +0530"
+			},
+		{
+				"handlerName": "on_untitled",
+				"timestamp": "2023-11-28 12:32:13.562 +0530",
+				"scriptName": "Untitled.script",
+				"message": "Unable To Find Image \"Contacts\"",
+				"image": "Contacts",
+				"handlerLine": 1,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"22.616\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2023-11-28 12:31:51 +0530\", Successes:\"0\", TestCase:\"Untitled.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-11-28 12:32:13.628 +0530"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "Image Not Found: imagelocation Error - Unable To Find Image \"Contacts\" -- Execution Time 0:00:22 Untitled.script",
+				"identifier": "FAILURE",
+				"timestamp": "2023-11-28 12:32:13.660 +0530"
+			}
+	],
+	"createdTimestamp": "2023-11-28 12:31:51.012 +0530"
+}

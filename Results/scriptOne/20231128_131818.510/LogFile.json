@@ -1,0 +1,29 @@
+{
+	"entries": [
+		{
+				"message": "Running Untitled.script",
+				"identifier": "START",
+				"timestamp": "2023-11-28 13:18:18.517 +0530"
+			},
+		{
+				"handlerName": "on_untitled",
+				"timestamp": "2023-11-28 13:20:11.045 +0530",
+				"scriptName": "Untitled.script",
+				"message": "Unable To Find Image \"Contacts\"",
+				"image": "Contacts",
+				"handlerLine": 1,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"112.623\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2023-11-28 13:18:18 +0530\", Successes:\"0\", TestCase:\"Untitled.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-11-28 13:20:11.143 +0530"
+			},
+		{
+				"message": "Execution Time 0:01:52 Untitled.script",
+				"identifier": "ABORTED",
+				"timestamp": "2023-11-28 13:20:11.157 +0530"
+			}
+	],
+	"createdTimestamp": "2023-11-28 13:18:18.520 +0530"
+}

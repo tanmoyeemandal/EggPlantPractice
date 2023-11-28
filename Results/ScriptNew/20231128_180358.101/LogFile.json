@@ -1,0 +1,28 @@
+{
+	"entries": [
+		{
+				"message": "Running ScriptNew.script",
+				"identifier": "START",
+				"timestamp": "2023-11-28 18:03:58.110 +0530"
+			},
+		{
+				"handlerName": "on_scriptnew",
+				"timestamp": "2023-11-28 18:03:58.240 +0530",
+				"message": "SEARCHRECTANGLE = [\"mobileleftEdge\",\"mobilerightEdge\"]",
+				"scriptName": "ScriptNew.script",
+				"handlerLine": 2,
+				"identifier": "set"
+			},
+		{
+				"message": "(Duration:\"0.16\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2023-11-28 18:03:58 +0530\", Successes:\"1\", TestCase:\"ScriptNew.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-11-28 18:03:58.270 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:00 ScriptNew.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2023-11-28 18:03:58.320 +0530"
+			}
+	],
+	"createdTimestamp": "2023-11-28 18:03:58.110 +0530"
+}

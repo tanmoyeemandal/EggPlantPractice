@@ -1,0 +1,6 @@
+﻿2023-11-28 13:17:57.653 +0530	START		Running Untitled.script
+2023-11-28 13:17:57.748 +0530	imagelocation	Contacts	at (53, 608)	1	on_untitled	Untitled.script
+2023-11-28 13:17:57.866 +0530	click		at (53, 608)	1	on_untitled	Untitled.script
+2023-11-28 13:17:57.885 +0530	Exception	History	Could Not Open Image: History	2	on_untitled	Untitled.script
+2023-11-28 13:17:57.918 +0530	EndTestCase		(Duration:"0.257", Errors:"1", Exceptions:"1", StartTime:"2023-11-28 13:17:57 +0530", Successes:"0", TestCase:"Untitled.script", Warnings:"0")
+2023-11-28 13:17:58.031 +0530	FAILURE	Screen_Error.png	File Not Found: imagelocation Error - Could Not Open Image: History -- Execution Time 0:00:00 Untitled.script

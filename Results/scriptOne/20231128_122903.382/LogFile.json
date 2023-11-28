@@ -1,0 +1,37 @@
+{
+	"entries": [
+		{
+				"message": "Running Untitled.script",
+				"identifier": "START",
+				"timestamp": "2023-11-28 12:29:03.386 +0530"
+			},
+		{
+				"handlerName": "on_untitled",
+				"timestamp": "2023-11-28 12:29:03.494 +0530",
+				"scriptName": "Untitled.script",
+				"message": "at (53, 608)",
+				"image": "Contacts",
+				"handlerLine": 1,
+				"identifier": "imagelocation"
+			},
+		{
+				"handlerName": "on_untitled",
+				"timestamp": "2023-11-28 12:29:03.616 +0530",
+				"message": "at (53, 608)",
+				"scriptName": "Untitled.script",
+				"handlerLine": 1,
+				"identifier": "click"
+			},
+		{
+				"message": "(Duration:\"0.247\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2023-11-28 12:29:03 +0530\", Successes:\"1\", TestCase:\"Untitled.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-11-28 12:29:03.645 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:00 Untitled.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2023-11-28 12:29:03.680 +0530"
+			}
+	],
+	"createdTimestamp": "2023-11-28 12:29:03.394 +0530"
+}

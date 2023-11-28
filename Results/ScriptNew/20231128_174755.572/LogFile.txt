@@ -1,0 +1,4 @@
+﻿2023-11-28 17:47:55.576 +0530	START		Running ScriptNew.script
+2023-11-28 17:47:55.691 +0530	capturescreen	Screen_Capture.png	(6,193,343,264)	1	on_scriptnew	ScriptNew.script
+2023-11-28 17:47:55.717 +0530	EndTestCase		(Duration:"0.129", Errors:"0", Exceptions:"0", StartTime:"2023-11-28 17:47:55 +0530", Successes:"1", TestCase:"ScriptNew.script", Warnings:"0")
+2023-11-28 17:47:55.757 +0530	SUCCESS		Execution Time 0:00:00 ScriptNew.script

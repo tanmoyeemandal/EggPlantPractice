@@ -1,0 +1,29 @@
+{
+	"entries": [
+		{
+				"message": "Running Untitled.script",
+				"identifier": "START",
+				"timestamp": "2023-11-28 11:59:18.533 +0530"
+			},
+		{
+				"handlerName": "on_untitled",
+				"timestamp": "2023-11-28 12:25:31.257 +0530",
+				"scriptName": "Untitled.script",
+				"message": "Unable To Find Image \"image0001.png\"",
+				"image": "image0001.png",
+				"handlerLine": 1,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"1572.809\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2023-11-28 11:59:18 +0530\", Successes:\"0\", TestCase:\"Untitled.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-11-28 12:25:31.350 +0530"
+			},
+		{
+				"message": "Execution Time 0:26:12 Untitled.script",
+				"identifier": "ABORTED",
+				"timestamp": "2023-11-28 12:25:31.357 +0530"
+			}
+	],
+	"createdTimestamp": "2023-11-28 11:59:18.536 +0530"
+}

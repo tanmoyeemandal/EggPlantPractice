@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<runHistory script="Untitled">
+ <run>
+  <RunDate>2023-11-28 11:59:18.527 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>1572.818000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20231128_115918.527/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2023-11-28 12:29:03.382 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>0.263000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20231128_122903.382/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2023-11-28 12:31:50.995 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>22.633000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20231128_123150.995/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- imagelocation Error - Unable To Find Image &quot;Contacts&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2023-11-28 12:32:52.428 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>16.127000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20231128_123252.428/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- imagelocation Error - Unable To Find Image &quot;Contacts&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2023-11-28 13:17:57.645 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.269000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20231128_131757.645/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- imagelocation Error - Could Not Open Image: History</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2023-11-28 13:18:16.959 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>0.483000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20231128_131816.959/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2023-11-28 13:18:18.510 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>112.633000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20231128_131818.510/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2023-11-28 13:20:12.040 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>33.942000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20231128_132012.040/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<runHistory script="Script 2">
+ <run>
+  <RunDate>2023-11-28 16:33:11.039 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.075000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20231128_163311.039/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got &#x27;Common&#x27;.</ErrorMessage>
+ </run>
+</runHistory>

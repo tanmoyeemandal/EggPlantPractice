@@ -1,0 +1,26 @@
+﻿Click ImageLocation(Image:"Contacts")
+Click ImageLocation(Image:"Favorites")
+Click ImageLocation(Image:"Downloads")
+DoubleClick ("Downloads")
+
+If imageFound("Notarealphonebutyoucantapthebu.png" ) then
+	
+	LogSuccess "image found success"
+	
+Else
+	LogError "image not found"
+	
+End if
+
+
+
+
+
+
+repeat with each color in ["red", "orange", "yellow", "green"]
+	log color 
+	LogSuccess "success"
+	
+end repeat
+
+
