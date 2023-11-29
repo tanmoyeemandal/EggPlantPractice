@@ -1,20 +1,20 @@
 {
 	"originalcapturelocation": [
-		250,
-		583,
-		33,
-		34
+		230,
+		567,
+		80,
+		73
 	],
-	"lastmodifieddate": 1701158425.471,
-	"createddate": 1701158425.471,
-	"name": "History_1",
+	"lastmodifieddate": 1701248609.9299998,
+	"createddate": 1701248609.9299998,
+	"name": "history",
 	"lastfounddate": 1701249395.003,
-	"ocrcapturestring": "o",
+	"ocrcapturestring": "o History",
 	"lastfoundlocation": [
-		250,
-		583,
-		33,
-		34
+		230,
+		567,
+		80,
+		73
 	],
 	"testlocationdata": [
 		{
@@ -66,32 +66,32 @@
 							"elementName": "Screen Text",
 							"elementScale": 1,
 							"elementType": "Checkpoint",
-							"elementLocation": "{x = 12; y = 198; width = 326; height = 60}"
+							"elementLocation": "{x = 12; y = 198; width = 207; height = 30}"
 						}
 				],
 				"properties": {
 					"CropRectangle": "[0,0,0,0]",
 					"Rotate": 0,
 					"Scale": "    1",
-					"HotSpot": "[23,18]",
-					"Tolerance": "_45",
+					"HotSpot": "[40,36]",
+					"Tolerance": "_33",
 					"Discrepancy": "_0",
-					"SearchType": "Tolerant of Background"
+					"SearchType": "Smoothed for Text"
 				},
 				"sutinfo": {
 					"Type": "Testplant Tutorial"
 				},
-				"name": "History_1.png",
+				"name": "history.png",
 				"connectionname": "TutorialSUT",
 				"type": 1,
 				"connectionserverid": "TutorialSUT",
 				"capturerect": [
-					250,
-					583,
-					33,
-					34
+					230,
+					567,
+					80,
+					73
 				],
-				"capturedocrtext": "o"
+				"capturedocrtext": "o History"
 			}
 	]
 }

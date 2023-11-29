@@ -1,0 +1,7 @@
+﻿To GetUserID
+params element
+Repeat until ImageFound(imageName:"History_1", waitFor:20)
+	ScrollWheelDown 5
+End repeat
+
+End GetUserID

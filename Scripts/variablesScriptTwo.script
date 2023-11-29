@@ -1,0 +1,6 @@
+﻿To GetInfo
+	Click "historyNew"
+	TypeText "abcd"
+	DoubleClick "history.png"
+	
+End GetInfo

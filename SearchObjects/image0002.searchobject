@@ -8,7 +8,7 @@
 	"lastmodifieddate": 1701154883.7649999,
 	"createddate": 1701154883.7649999,
 	"name": "image0002",
-	"lastfounddate": 1701174704.6529999,
+	"lastfounddate": 1701249395.01,
 	"ocrcapturestring": "o",
 	"lastfoundlocation": [
 		250,
@@ -22,50 +22,50 @@
 				"domelements": [
 					{
 							"elementName": "ContactsButton",
-							"elementScale": 1,
 							"elementType": "Button",
+							"elementScale": 1,
 							"elementLocation": "{x = 9; y = 578; width = 93; height = 62}"
 						},
 					{
 							"elementName": "FavoritesButton",
-							"elementScale": 1,
 							"elementType": "Button",
+							"elementScale": 1,
 							"elementLocation": "{x = 111; y = 578; width = 93; height = 62}"
 						},
 					{
 							"elementName": "HistoryButton",
-							"elementScale": 1,
 							"elementType": "Button",
+							"elementScale": 1,
 							"elementLocation": "{x = 222; y = 578; width = 93; height = 62}"
 						},
 					{
 							"elementName": "DownloadsButton",
-							"elementScale": 1,
 							"elementType": "Button",
+							"elementScale": 1,
 							"elementLocation": "{x = 327; y = 578; width = 93; height = 62}"
 						},
 					{
 							"elementName": "Wifi Indicator",
-							"elementScale": 1,
 							"elementType": "Checkpoint",
+							"elementScale": 1,
 							"elementLocation": "{x = 4; y = 3; width = 82; height = 22}"
 						},
 					{
 							"elementName": "Clock",
-							"elementScale": 1,
 							"elementType": "Checkpoint",
+							"elementScale": 1,
 							"elementLocation": "{x = 174; y = 4; width = 78; height = 20}"
 						},
 					{
 							"elementName": "Battery Indicator",
-							"elementScale": 1,
 							"elementType": "Checkpoint",
+							"elementScale": 1,
 							"elementLocation": "{x = 382; y = 3; width = 42; height = 24}"
 						},
 					{
 							"elementName": "Screen Text",
-							"elementScale": 1,
 							"elementType": "Checkpoint",
+							"elementScale": 1,
 							"elementLocation": "{x = 12; y = 198; width = 207; height = 30}"
 						}
 				],

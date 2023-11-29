@@ -1,0 +1,12 @@
+﻿To MyNewHandler
+	Params requestSize
+	TypeText controlKey,a 
+	TypeText backspace
+	TypeText requestSize
+	
+End MyNewHandler
+
+
+
+
+To My

@@ -6,3 +6,5 @@ End GreetTheUser
 
 
 Utilities.Module2
+
+Common.ConnectToSUT

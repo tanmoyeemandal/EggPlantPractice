@@ -1,0 +1,33 @@
+﻿If ImageFound(text:"History_1") then
+	LogSuccess "Image has been found"
+	
+Else
+	LogSuccess "Image not found"
+	
+End if
+
+
+Click imageName:"Downloads_1", waitFor:20
+TypeText 7
+
+
+
+
+If ImageFound("Downloads_1") then
+	Click "History"
+	
+Else
+	Click "Contacts_1"
+	
+End if
+
+
+
+If ImageFound(imageName:"Contacts_", waitFor:10) then
+	Click text:"new"
+	
+Else
+	LogError "Image cannot be found"
+	
+End if
+
