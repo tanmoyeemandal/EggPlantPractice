@@ -1,20 +1,20 @@
 {
 	"originalcapturelocation": [
-		167,
-		0,
-		104,
-		54
+		7,
+		176,
+		350,
+		91
 	],
-	"lastmodifieddate": 1701174920.5549998,
-	"createddate": 1701174920.5549998,
-	"name": "centerTime",
-	"lastfounddate": 1701327948.3210001,
-	"ocrcapturestring": "12:35 AM",
+	"lastmodifieddate": 1701327973.2160001,
+	"createddate": 1701327973.2160001,
+	"name": "Notarealphonebutyoucantapthebu_3",
+	"lastfounddate": 1701328162.474,
+	"ocrcapturestring": "Not a real phone, but you can tap the buttons.",
 	"lastfoundlocation": [
-		167,
-		0,
-		104,
-		54
+		7,
+		176,
+		350,
+		91
 	],
 	"testlocationdata": [
 		{
@@ -66,14 +66,14 @@
 							"elementName": "Screen Text",
 							"elementType": "Checkpoint",
 							"elementScale": 1,
-							"elementLocation": "{x = 12; y = 198; width = 236; height = 30}"
+							"elementLocation": "{x = 12; y = 198; width = 326; height = 60}"
 						}
 				],
 				"properties": {
 					"CropRectangle": "[0,0,0,0]",
 					"Rotate": 0,
 					"Scale": "    1",
-					"HotSpot": "[42,1]",
+					"HotSpot": "[175,45]",
 					"Tolerance": "_73",
 					"Discrepancy": "_0",
 					"SearchType": "Smoothed for Text"
@@ -81,17 +81,17 @@
 				"sutinfo": {
 					"Type": "Testplant Tutorial"
 				},
-				"name": "centerTime.png",
+				"name": "Notarealphonebutyoucantapthebu_3.png",
 				"connectionname": "TutorialSUT",
 				"type": 1,
 				"connectionserverid": "TutorialSUT",
 				"capturerect": [
-					167,
-					0,
-					104,
-					54
+					7,
+					176,
+					350,
+					91
 				],
-				"capturedocrtext": "12:35 AM"
+				"capturedocrtext": "Not a real phone, but you can tap the buttons."
 			}
 	]
 }

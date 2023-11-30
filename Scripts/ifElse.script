@@ -23,7 +23,7 @@ End if
 
 
 
-If ImageFound(imageName:"Contacts_", waitFor:10) then
+If ImageFound(imageName:"Contact", waitFor:10) then
 	Click text:"new"
 	
 Else

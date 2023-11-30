@@ -1,7 +1,19 @@
 ﻿To GetUserID
-params element
-Repeat until ImageFound(imageName:"History_1", waitFor:20)
-	ScrollWheelDown 5
-End repeat
-
+	params element
+	Repeat until ImageFound(imageName:"History_1", waitFor:20)
+		ScrollWheelDown 5
+	End repeat
+	
 End GetUserID
+
+
+
+
+To LaunchBrowser
+
+	Repeat until ImageFound("Downloads")
+		Click "history"
+		
+	End repeat
+	
+End LaunchBrowser

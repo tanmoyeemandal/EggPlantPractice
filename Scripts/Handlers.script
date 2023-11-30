@@ -1,0 +1,20 @@
+﻿
+
+
+
+
+to handle GetInfo
+To GetInfo
+	Click "historyNew"
+	TypeText "abcd"
+	DoubleClick "history.png"
+	
+End GetInfo
+end GetInfo
+----------------------------------------------------------------------
+
+To GreetTheUser
+	Put ("Welcome to SDET")
+End GreetTheUser
+
+

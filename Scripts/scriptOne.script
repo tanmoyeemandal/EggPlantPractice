@@ -1,7 +1,4 @@
-﻿Click ImageLocation(Image:"Contacts")
-Click ImageLocation(Image:"Favorites")
-Click ImageLocation(Image:"Downloads")
-DoubleClick ("Downloads")
+﻿LaunchBrowser
 
 If imageFound("Notarealphonebutyoucantapthebu.png" ) then
 	
@@ -22,5 +19,19 @@ repeat with each color in ["red", "orange", "yellow", "green"]
 	LogSuccess "success"
 	
 end repeat
+
+
+
+
+to handle LaunchBrowser
+	Click ImageLocation(Image:"Contacts")
+	Click ImageLocation(Image:"Favorites")
+	Click ImageLocation(Image:"Downloads")
+	DoubleClick ("Downloads")
+	
+	
+end LaunchBrowser"history"
+
+
 
 

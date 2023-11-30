@@ -1,0 +1,14 @@
+﻿to handle ConnectToSUT
+	Connect "DEMO 2"
+end ConnectToSUT
+
+
+to handle LaunchBrowser
+	Click ImageLocation(Image:"Contacts")
+	Click ImageLocation(Image:"Favorites")
+	Click ImageLocation(Image:"Downloads")
+	DoubleClick ("Downloads")
+	
+	
+end LaunchBrowser
+

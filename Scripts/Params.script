@@ -9,4 +9,8 @@ End MyNewHandler
 
 
 
-To My
+To Mycurrenthandler
+	Params manufacturer
+	WaitFor 20, text:"Sytem Handling"
+	TypeText "MY NAME IS MANDAL"
+End Mycurrenthandler

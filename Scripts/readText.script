@@ -1,0 +1,18 @@
+﻿To readtexthandler
+	ImageFound{text:"TREE AND XML"}
+End readtexthandler
+
+
+To myhandler
+	If ImageFound("Notarealphonebutyoucantapthebu_3.png") then
+		LogSuccess "can see the image"
+		
+	Else
+		LogError "Cannot see the image"
+		
+	End if
+	
+End myhandler
+
+
+

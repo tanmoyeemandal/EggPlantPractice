@@ -1,0 +1,62 @@
+﻿To rightClickOnClass
+	Set the SearchRectangle to ["abcd","efgh"]
+	Click item 2 of EveryImageLocation("zzz")
+	Repeat until ImageFound("Image_1")
+		TypeText downArrow	
+	End repeat
+End rightClickOnClass
+
+
+To enterClassDescription
+	params classdscsdsc
+Right Click ImageLocation("abcd")
+Click text:"SelectAll"
+TypeText Backspace
+TypeText classdsc
+End enterClassDescription
+
+
+
+To resume_a_lot
+	params LoItd
+(WaitFor globalwaittime.L, "ResumeLot")
+Click "ResumeLot"
+If ImageFound("xyz") then
+	LogSuccess "Succesfully found"
+	
+Else
+	LogError "Unsuccessful"
+	
+End if
+End resume_a_lot
+
+
+
+To selectDataSource
+	params datasource
+	click ImageLocation("MyImage")
+	MoveTo text:"DtataStruicture"
+	
+End selectDataSource
+
+
+
+To SearchForService 
+	params Service
+	WaitFor global waitTime.M, text:"XYZ"
+	
+	Repeat until Imagefound(text:Service)
+		scrollwheeldown  4
+	End Repeat
+	
+	
+	
+	
+	
+To GotoAdministrationTools
+	TypeText windowsKey,"r"
+	TypeText backspace
+	WaitFor global waitTime.M, text:"Run"
+	LogSuccess "Succesully found the run button"
+	TypeText  "cmd", return
+End GotoAdministrationTools
