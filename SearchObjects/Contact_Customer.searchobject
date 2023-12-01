@@ -1,20 +1,20 @@
 {
 	"originalcapturelocation": [
-		36,
-		583,
-		34,
-		34
+		18,
+		576,
+		68,
+		64
 	],
-	"lastmodifieddate": 1701158399.562,
-	"createddate": 1701158399.562,
-	"name": "Contacts_1",
+	"lastmodifieddate": 1701411093.8210001,
+	"createddate": 1701411059.858,
+	"name": "Contact_Customer",
 	"lastfounddate": 1701411060.9070001,
-	"ocrcapturestring": "o",
+	"ocrcapturestring": "o Contacts",
 	"lastfoundlocation": [
-		36,
-		583,
-		34,
-		34
+		18,
+		576,
+		68,
+		64
 	],
 	"testlocationdata": [
 		{
@@ -73,25 +73,25 @@
 					"CropRectangle": "[0,0,0,0]",
 					"Rotate": 0,
 					"Scale": "    1",
-					"HotSpot": "[4,13]",
-					"Tolerance": "_45",
+					"HotSpot": "[1,1]",
+					"Tolerance": "_73",
 					"Discrepancy": "_0",
-					"SearchType": "Tolerant of Background"
+					"SearchType": "Smoothed for Text"
 				},
 				"sutinfo": {
 					"Type": "Testplant Tutorial"
 				},
-				"name": "Contacts_1.png",
+				"name": "Collection_Customer/Contact_Customer.png",
 				"connectionname": "TutorialSUT",
 				"type": 1,
 				"connectionserverid": "TutorialSUT",
 				"capturerect": [
-					36,
-					583,
-					34,
-					34
+					18,
+					576,
+					68,
+					64
 				],
-				"capturedocrtext": "o"
+				"capturedocrtext": "o Contacts"
 			}
 	]
 }

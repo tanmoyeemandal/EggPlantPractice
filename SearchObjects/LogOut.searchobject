@@ -1,0 +1,49 @@
+{
+	"originalcapturelocation": [
+		823,
+		51,
+		89,
+		58
+	],
+	"lastmodifieddate": 1701431470.053,
+	"createddate": 1701431121.0799999,
+	"name": "LogOut",
+	"lastfounddate": 1701431122.0209999,
+	"ocrcapturestring": "Log Out",
+	"lastfoundlocation": [
+		823,
+		51,
+		89,
+		58
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"deleted": true,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[6,0]",
+					"Tolerance": "_66",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "LogOut.png",
+				"connectionname": "10.116.3.185",
+				"type": 1,
+				"connectionserverid": "10.116.3.185",
+				"capturerect": [
+					823,
+					51,
+					89,
+					58
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Log Out"
+			}
+	]
+}

@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		21,
+		98,
+		196,
+		197
+	],
+	"lastmodifieddate": 1701430999.4260001,
+	"createddate": 1701430999.4260001,
+	"name": "GeneralSetupnSiteSetupnLinesan",
+	"lastfounddate": 1701435284.75,
+	"ocrcapturestring": "\"General Setup nSite Setup n Lines and Products Manual Operations n System Logs »Data Viewers ^Administration \"Web Service",
+	"lastfoundlocation": [
+		21,
+		98,
+		196,
+		197
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[98,98]",
+					"Tolerance": "_62",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "GeneralSetupnSiteSetupnLinesan.png",
+				"connectionname": "10.116.3.185",
+				"type": 1,
+				"connectionserverid": "10.116.3.185",
+				"capturerect": [
+					21,
+					98,
+					196,
+					197
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "\"General Setup nSite Setup n Lines and Products Manual Operations n System Logs »Data Viewers ^Administration \"Web Service"
+			}
+	]
+}

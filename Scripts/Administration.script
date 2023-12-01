@@ -1,0 +1,40 @@
+﻿To GurdianPage password
+	TypeText windowsKey,"r"
+	TypeText backspace
+	TypeText "C:\\Program Files\\Systech International\\Guardian SPT Config\\GuardianSPTConfig.exe"
+	Click "Ok"
+	Click image:"password"
+	TypeText password
+	Click {image:"LogIn.png"}
+	
+End GurdianPage
+
+To administrationSubMenu
+	If ImageFound("Administration") then
+		DoubleClick "Administration"
+		
+	Else
+		LogError "Image not found"
+		
+	End if
+	
+	Click image:"PurgeProductionData.png"
+	
+End administrationSubMenu
+
+To warningPurgeProduction
+	If ImageFound("PurgeProductionDataWARNINGmessage.png") then
+		Click "Next"	
+	Else
+		LogError "Image not found"
+		
+	End if
+	
+End warningPurgeProduction
+
+To purgeProductionLogIn username,password
+	Click image: "Loginauthorizedtopurgedata.png"
+	TypeText username
+	Click image : "Password_Purge"
+	TypeText password
+End purgeProductionLogIn

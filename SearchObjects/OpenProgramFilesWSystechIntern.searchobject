@@ -1,0 +1,41 @@
+{
+	"lastmodifieddate": 1701430371.3559999,
+	"ocrcapturestring": "Open: £:\\\\Program FilesWSystech InternationalWGuardian SPT v",
+	"originalcapturelocation": [
+		146,
+		555,
+		379,
+		39
+	],
+	"createddate": 1701430371.3559999,
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Tolerance": "_73",
+					"HotSpot": "[3,3]",
+					"Scale": "    1",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "OpenProgramFilesWSystechIntern.png",
+				"connectionname": "10.116.3.185",
+				"type": 1,
+				"connectionserverid": "10.116.3.185",
+				"capturerect": [
+					146,
+					555,
+					379,
+					39
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Open: £:\\\\Program FilesWSystech InternationalWGuardian SPT v"
+			}
+	],
+	"name": "OpenProgramFilesWSystechIntern"
+}

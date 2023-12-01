@@ -1,0 +1,23 @@
+﻿To GurdianPage password
+	TypeText windowsKey,"r"
+	TypeText backspace
+	TypeText "C:\\Program Files\\Systech International\\Guardian SPT Config\\GuardianSPTConfig.exe"
+	Click "Ok"
+	Click image:"password"
+	TypeText password
+	Click {image:"LogIn.png"}
+	
+End GurdianPage
+
+To verifyMenuItems
+	If ImageFound("GeneralSetupnSiteSetupnLinesan.png") then
+		LogSuccess "Image found"
+		
+	Else
+		LogError "Image not found"
+		
+	End if
+	
+	Click image:"LogOut.png"
+	
+End verifyMenuItems

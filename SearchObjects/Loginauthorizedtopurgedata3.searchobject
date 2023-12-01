@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		260,
+		380,
+		429,
+		18
+	],
+	"lastmodifieddate": 1701439741.586,
+	"createddate": 1701439741.586,
+	"name": "Loginauthorizedtopurgedata3",
+	"lastfounddate": 1701439941.698,
+	"ocrcapturestring": "Login (authorized to purge data)",
+	"lastfoundlocation": [
+		260,
+		380,
+		429,
+		18
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[314,6]",
+					"Tolerance": "_73",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "Loginauthorizedtopurgedata.png",
+				"connectionname": "10.116.3.185",
+				"type": 1,
+				"connectionserverid": "10.116.3.185",
+				"capturerect": [
+					260,
+					380,
+					429,
+					18
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Login (authorized to purge data)"
+			}
+	]
+}

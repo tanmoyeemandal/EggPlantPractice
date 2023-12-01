@@ -5,10 +5,10 @@
 		34,
 		34
 	],
-	"lastmodifieddate": 1701152587.8600001,
+	"lastmodifieddate": 1701411063.635,
 	"createddate": 1701152587.8600001,
 	"name": "image0001",
-	"lastfounddate": 1701158403.5580001,
+	"lastfounddate": 1701411060.915,
 	"ocrcapturestring": "o",
 	"lastfoundlocation": [
 		36,
@@ -22,50 +22,50 @@
 				"domelements": [
 					{
 							"elementName": "ContactsButton",
-							"elementType": "Button",
 							"elementScale": 1,
+							"elementType": "Button",
 							"elementLocation": "{x = 9; y = 578; width = 93; height = 62}"
 						},
 					{
 							"elementName": "FavoritesButton",
-							"elementType": "Button",
 							"elementScale": 1,
+							"elementType": "Button",
 							"elementLocation": "{x = 111; y = 578; width = 93; height = 62}"
 						},
 					{
 							"elementName": "HistoryButton",
-							"elementType": "Button",
 							"elementScale": 1,
+							"elementType": "Button",
 							"elementLocation": "{x = 222; y = 578; width = 93; height = 62}"
 						},
 					{
 							"elementName": "DownloadsButton",
-							"elementType": "Button",
 							"elementScale": 1,
+							"elementType": "Button",
 							"elementLocation": "{x = 327; y = 578; width = 93; height = 62}"
 						},
 					{
 							"elementName": "Wifi Indicator",
-							"elementType": "Checkpoint",
 							"elementScale": 1,
+							"elementType": "Checkpoint",
 							"elementLocation": "{x = 4; y = 3; width = 82; height = 22}"
 						},
 					{
 							"elementName": "Clock",
-							"elementType": "Checkpoint",
 							"elementScale": 1,
+							"elementType": "Checkpoint",
 							"elementLocation": "{x = 174; y = 4; width = 78; height = 20}"
 						},
 					{
 							"elementName": "Battery Indicator",
-							"elementType": "Checkpoint",
 							"elementScale": 1,
+							"elementType": "Checkpoint",
 							"elementLocation": "{x = 382; y = 3; width = 42; height = 24}"
 						},
 					{
 							"elementName": "Screen Text",
-							"elementType": "Checkpoint",
 							"elementScale": 1,
+							"elementType": "Checkpoint",
 							"elementLocation": "{x = 12; y = 198; width = 326; height = 60}"
 						}
 				],
@@ -81,7 +81,7 @@
 				"sutinfo": {
 					"Type": "Testplant Tutorial"
 				},
-				"name": "image0001.png",
+				"name": "image0001/image0001.png",
 				"connectionname": "TutorialSUT",
 				"type": 1,
 				"connectionserverid": "TutorialSUT",

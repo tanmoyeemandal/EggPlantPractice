@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		247,
+		109,
+		649,
+		145
+	],
+	"lastmodifieddate": 1701435629.655,
+	"createddate": 1701435629.655,
+	"name": "PurgeProductionDataWARNINGmessage",
+	"lastfounddate": 1701439940.513,
+	"ocrcapturestring": "Purge Production Data WARNING! You have selected to purge the production data from Guardian: SERQAGRD10. The configuration settings are not removed by this process. This process cannot be reversed without restoring a Guardian database backup. Press CANCEL now and make a backup of this Guardian database before continuing.",
+	"lastfoundlocation": [
+		247,
+		109,
+		649,
+		145
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[324,72]",
+					"Tolerance": "_73",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "PurgeProductionDataWARNINGmessage.png",
+				"connectionname": "10.116.3.185",
+				"type": 1,
+				"connectionserverid": "10.116.3.185",
+				"capturerect": [
+					247,
+					109,
+					649,
+					145
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Purge Production Data WARNING! You have selected to purge the production data from Guardian: SERQAGRD10. The configuration settings are not removed by this process. This process cannot be reversed without restoring a Guardian database backup. Press CANCEL now and make a backup of this Guardian database before continuing."
+			}
+	]
+}

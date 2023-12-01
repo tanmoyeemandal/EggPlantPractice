@@ -1,0 +1,44 @@
+﻿To CustomerPage
+	If ImageFound("Contact_Customer.png") then
+		LogSuccess "Successfully found"
+		
+	Else
+		LogError "Unsuccessful"
+		
+	End if
+	
+End CustomerPage
+
+
+\\LOGIN USER---------------------------------
+
+To LogInCredential username,password
+	Click "Gurdian SPT Configuration" 
+	WaitFor 20, text:"Search"
+	TypeText username
+	TypeText password
+	Click "Login"
+	
+End LogInCredential
+
+
+
+\\BrowserSearch-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+To launchbrowser
+
+	Click "Chrome"
+	WaitFor 20, "Refresh"
+	Click text:"Search"
+	TypeText "Wikipedia"
+	Click "Contact Us"
+	WaitFor 10, Image:"Enquiry Type"
+	Click ImageLocation("Image")
+	
+End launchbrowser
+
+
+
+
+
+
+

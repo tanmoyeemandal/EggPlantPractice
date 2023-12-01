@@ -18,3 +18,14 @@ To GreetTheUser
 End GreetTheUser
 
 
+
+
+gurdianLogInPage.GurdianPage qa
+gurdianLogInPage.verifyMenuItems
+
+
+
+gurdianLogInPage.GurdianPage qa
+Administration.administrationSubMenu
+Administration.warningPurgeProduction
+Administration.purgeProductionLogIn sa,cactus#1

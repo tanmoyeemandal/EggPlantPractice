@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		417,
+		257,
+		232,
+		38
+	],
+	"lastmodifieddate": 1701430834.8,
+	"createddate": 1701430834.8,
+	"name": "UserName",
+	"lastfounddate": 1701430837.6160002,
+	"ocrcapturestring": "Q8",
+	"lastfoundlocation": [
+		417,
+		257,
+		232,
+		38
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[116,19]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "UserName.png",
+				"connectionname": "10.116.3.185",
+				"type": 1,
+				"connectionserverid": "10.116.3.185",
+				"capturerect": [
+					417,
+					257,
+					232,
+					38
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Q8"
+			}
+	]
+}

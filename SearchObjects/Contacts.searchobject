@@ -8,7 +8,7 @@
 	"lastmodifieddate": 1701154586.2020001,
 	"createddate": 1701154586.2020001,
 	"name": "Contacts",
-	"lastfounddate": 1701255099.5110002,
+	"lastfounddate": 1701411020.9349999,
 	"ocrcapturestring": "Contacts",
 	"lastfoundlocation": [
 		17,
@@ -22,50 +22,50 @@
 				"domelements": [
 					{
 							"elementName": "ContactsButton",
-							"elementType": "Button",
 							"elementScale": 1,
+							"elementType": "Button",
 							"elementLocation": "{x = 9; y = 578; width = 93; height = 62}"
 						},
 					{
 							"elementName": "FavoritesButton",
-							"elementType": "Button",
 							"elementScale": 1,
+							"elementType": "Button",
 							"elementLocation": "{x = 111; y = 578; width = 93; height = 62}"
 						},
 					{
 							"elementName": "HistoryButton",
-							"elementType": "Button",
 							"elementScale": 1,
+							"elementType": "Button",
 							"elementLocation": "{x = 222; y = 578; width = 93; height = 62}"
 						},
 					{
 							"elementName": "DownloadsButton",
-							"elementType": "Button",
 							"elementScale": 1,
+							"elementType": "Button",
 							"elementLocation": "{x = 327; y = 578; width = 93; height = 62}"
 						},
 					{
 							"elementName": "Wifi Indicator",
-							"elementType": "Checkpoint",
 							"elementScale": 1,
+							"elementType": "Checkpoint",
 							"elementLocation": "{x = 4; y = 3; width = 82; height = 22}"
 						},
 					{
 							"elementName": "Clock",
-							"elementType": "Checkpoint",
 							"elementScale": 1,
+							"elementType": "Checkpoint",
 							"elementLocation": "{x = 174; y = 4; width = 78; height = 20}"
 						},
 					{
 							"elementName": "Battery Indicator",
-							"elementType": "Checkpoint",
 							"elementScale": 1,
+							"elementType": "Checkpoint",
 							"elementLocation": "{x = 382; y = 3; width = 42; height = 24}"
 						},
 					{
 							"elementName": "Screen Text",
-							"elementType": "Checkpoint",
 							"elementScale": 1,
+							"elementType": "Checkpoint",
 							"elementLocation": "{x = 12; y = 198; width = 207; height = 30}"
 						}
 				],

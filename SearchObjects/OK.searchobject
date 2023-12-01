@@ -1,0 +1,49 @@
+{
+	"originalcapturelocation": [
+		111,
+		664,
+		108,
+		39
+	],
+	"lastmodifieddate": 1701432941.665,
+	"createddate": 1701430683.8150001,
+	"name": "OK",
+	"lastfounddate": 1701432845.5939999,
+	"ocrcapturestring": "OK",
+	"lastfoundlocation": [
+		111,
+		664,
+		108,
+		39
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"deleted": true,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[4,5]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "OK.png",
+				"connectionname": "10.116.3.185",
+				"type": 1,
+				"connectionserverid": "10.116.3.185",
+				"capturerect": [
+					111,
+					664,
+					108,
+					39
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "OK"
+			}
+	]
+}
