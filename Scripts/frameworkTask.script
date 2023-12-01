@@ -12,6 +12,7 @@ To enterClassDescription
 Right Click ImageLocation("abcd")
 Click text:"SelectAll"
 TypeText Backspace
+
 TypeText classdsc
 End enterClassDescription
 
